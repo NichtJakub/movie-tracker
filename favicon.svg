@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Movie Tracker favicon</title>
+  <desc id="desc">Red and blue Movie Tracker icon with MT initials</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#240808"/>
+      <stop offset="100%" stop-color="#0b0b10"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff3434"/>
+      <stop offset="52%" stop-color="#ff4f4f"/>
+      <stop offset="100%" stop-color="#1f7bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <rect x="14" y="14" width="228" height="228" rx="38" fill="none" stroke="url(#accent)" stroke-width="6"/>
+  <rect x="34" y="50" width="188" height="156" rx="26" fill="rgba(255,255,255,0.03)" opacity="0.14"/>
+  <path d="M58 186V70h28l24 44 24-44h28v116h-26v-69l-19 34h-14l-19-34v69H58Z" fill="#ffffff"/>
+  <path d="M172 70h52v20h-26v96h-26V90h-26V70h26Z" fill="#ff4343"/>
+</svg>
