@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://movietracker-jakub.netlify.app/sitemap.xml
+Sitemap: https://nichtjakub.github.io/movie-tracker/sitemap.xml
