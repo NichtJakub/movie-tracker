@@ -1,0 +1,21 @@
+{
+  "name": "Movie Tracker",
+  "short_name": "MovieTracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#160707",
+  "description": "Track Marvel and DC movies in timeline order, mark watched titles, rate favorites, and follow your progress.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
